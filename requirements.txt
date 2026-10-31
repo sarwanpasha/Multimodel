@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+accelerate
+easyocr
+pillow
+numpy
+matplotlib
+openai
